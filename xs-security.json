@@ -1,0 +1,7 @@
+{
+  "xsappname": "sapbtpui5northwindprojects",
+  "tenant-mode": "dedicated",
+  "description": "Security profile of called application",
+  "scopes": [],
+  "role-templates": []
+}
